@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Nirmal Patra, a passionate developer from India, dedicated to crafting efficient and effective solutions through code. Let's build something amazing together!
+I'm Nirmal Patra, a passionate Frontend Developer from India, dedicated to crafting efficient and effective solutions through code. Let's build something amazing together!
 
 
 
